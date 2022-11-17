@@ -3,7 +3,7 @@
   "description": "lorem ipsum",
   "deployedURL": "https://next-tic-tac-toe-lime.vercel.app/",
   "image": {
-    "src": "https://via.placeholder.com/200",
+    "src": "/placeholder-200",
     "alt": "lorem ipsum"
   }
 }
