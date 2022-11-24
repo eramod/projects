@@ -1,0 +1,9 @@
+{
+  "title": "Wordle Clone",
+  "description": "lorem ipsum",
+  "deployedURL": "https://wordle-clone-sandy-nine.vercel.app/",
+  "image": {
+    "src": "/images/placeholder-200.png",
+    "alt": "lorem ipsum"
+  }
+}
